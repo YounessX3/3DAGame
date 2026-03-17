@@ -1,0 +1,11 @@
+# Visual Studio cache
+.vs/
+
+# Build outputs
+build/
+
+# Debug databases
+*.db
+
+# Debug symbols
+*.pdb
